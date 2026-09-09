@@ -1,0 +1,28 @@
+# PHP
+*.log
+vendor/
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Database
+*.sql.bak
+config/database-backup.php
+
+# Session
+session_data/
+
+# Uploads
+uploads/
+tickets/
+
+# Temp files
+tmp/
+temp/
